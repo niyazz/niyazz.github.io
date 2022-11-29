@@ -9,11 +9,9 @@ Base functionality:
 - Trends of most viewed gifs (coressponding  to GIPHY statistics)
 - Open liked gifs
 
-**Enjoy! 📢**
 
-## Technology stack 💾
-At this project I used HTML, CSS and, of course, JavaScript with powerfull GIPHY API.
-
+## Technology stack
+HTML, CSS, JavaScript, GIPHY Api.
 
 
 ## Examples
